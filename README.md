@@ -1,2 +1,2 @@
 # readme
-About us!
+Building something impactful!
